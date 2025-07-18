@@ -90,95 +90,41 @@
       50% { transform: translateY(-8px); }
     }
     
-    /* About Intro Section */
-    .about-intro-section {
-      padding: 4rem 2rem !important;
-      background: linear-gradient(135deg, #ffffff 0%, #f1f5f9 100%) !important;
-      border-top: 1px solid #e2e8f0 !important;
-      margin: 40px -40px !important;
-    }
-    
-    .intro-content {
-      max-width: 1000px !important;
-      margin: 0 auto !important;
+    /* LinkedIn CTA Button */
+    .hero-cta {
+      margin-top: 2rem !important;
       text-align: center !important;
     }
     
-    .intro-title {
-      font-size: 2.5rem !important;
-      font-weight: 700 !important;
-      color: #1e293b !important;
-      margin-bottom: 1.5rem !important;
-      background: linear-gradient(135deg, #3b82f6, #8b5cf6) !important;
-      -webkit-background-clip: text !important;
-      -webkit-text-fill-color: transparent !important;
-      background-clip: text !important;
-    }
-    
-    .intro-description, .intro-experience {
-      font-size: 1.1rem !important;
-      line-height: 1.8 !important;
-      color: #475569 !important;
-      margin-bottom: 2rem !important;
-      text-align: left !important;
-      max-width: 800px !important;
-      margin-left: auto !important;
-      margin-right: auto !important;
-    }
-    
-    .expertise-grid {
-      display: grid !important;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)) !important;
-      gap: 1rem !important;
-      margin: 2rem 0 !important;
-    }
-    
-    .expertise-item {
-      display: flex !important;
+    .linkedin-btn {
+      display: inline-flex !important;
       align-items: center !important;
-      padding: 1rem !important;
-      background: white !important;
-      border-radius: 8px !important;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
-      border-left: 4px solid #3b82f6 !important;
-    }
-    
-    .expertise-icon {
-      margin-right: 0.75rem !important;
-      font-size: 1.2rem !important;
-    }
-    
-    .expertise-text {
-      font-weight: 500 !important;
-      color: #334155 !important;
-    }
-    
-    .certifications {
-      display: flex !important;
-      flex-wrap: wrap !important;
-      justify-content: center !important;
-      gap: 1rem !important;
-      margin-top: 2rem !important;
-    }
-    
-    .cert-badge {
-      padding: 0.5rem 1rem !important;
-      border-radius: 20px !important;
-      font-weight: 600 !important;
-      font-size: 0.9rem !important;
+      gap: 0.75rem !important;
+      padding: 1rem 2rem !important;
+      background: linear-gradient(135deg, #0077b5, #005885) !important;
       color: white !important;
+      text-decoration: none !important;
+      border-radius: 50px !important;
+      font-weight: 600 !important;
+      font-size: 1.1rem !important;
+      box-shadow: 0 8px 25px rgba(0, 119, 181, 0.3) !important;
+      transition: all 0.3s ease !important;
+      border: none !important;
     }
     
-    .cert-badge.aws {
-      background: linear-gradient(135deg, #ff9900, #ff6600) !important;
+    .linkedin-btn:hover {
+      transform: translateY(-2px) !important;
+      box-shadow: 0 12px 35px rgba(0, 119, 181, 0.4) !important;
+      color: white !important;
+      text-decoration: none !important;
     }
     
-    .cert-badge.azure {
-      background: linear-gradient(135deg, #0078d4, #005a9f) !important;
+    .linkedin-btn svg {
+      transition: transform 0.3s ease !important;
     }
     
-    .cert-badge.additional {
-      background: linear-gradient(135deg, #6b7280, #4b5563) !important;
+    .linkedin-btn:hover svg:last-child {
+      transform: translateX(3px) !important;
     }
   </style>
 

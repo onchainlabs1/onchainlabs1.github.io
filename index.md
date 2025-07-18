@@ -24,6 +24,17 @@ subtitle: AI Solutions Architect | GenAI, ML, MLOps | Turning AI into Business O
           <span class="stat-label">Certified</span>
         </div>
       </div>
+      <div class="hero-cta">
+        <a href="https://www.linkedin.com/in/fabiofigueiredo1/" class="linkedin-btn" target="_blank">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+          </svg>
+          <span>Connect on LinkedIn</span>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M14,3V5H17.59L7.76,14.83L9.17,16.24L19,6.41V10H21V3M19,19H5V5H12V3H5C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V12H19V19Z"/>
+          </svg>
+        </a>
+      </div>
     </div>
     <div class="hero-visual">
       <div class="floating-card card-1">🤖 GenAI</div>
@@ -34,40 +45,7 @@ subtitle: AI Solutions Architect | GenAI, ML, MLOps | Turning AI into Business O
   </div>
 </div>
 
-<div class="about-intro-section">
-  <div class="intro-content">
-    <h2 class="intro-title">AI Solutions Architect</h2>
-    <p class="intro-description">
-      I help organizations design and deploy AI systems that solve real problems — from forecasting and advanced ML pipelines to <strong>agentic GenAI solutions</strong> powered by LLMs, retrieval-augmented generation (RAG), and Model Context Protocols (MCPs).
-    </p>
-    <p class="intro-experience">
-      With global delivery experience across <strong>Brazil, Canada, U.S., and Europe</strong>, I specialize in Generative AI, MLOps, and advanced machine learning algorithms. As founder of <strong>On-Chain Labs</strong>, I lead both technical implementation and strategic advisory — from early discovery through scalable, production-grade deployment.
-    </p>
-    <div class="expertise-grid">
-      <div class="expertise-item">
-        <span class="expertise-icon">🔹</span>
-        <span class="expertise-text">Agentic AI, LLMs, RAG, ML forecasting</span>
-      </div>
-      <div class="expertise-item">
-        <span class="expertise-icon">🔹</span>
-        <span class="expertise-text">LangChain, MLflow, MCPs, AWS, Azure</span>
-      </div>
-      <div class="expertise-item">
-        <span class="expertise-icon">🔹</span>
-        <span class="expertise-text">LightGBM, XGBoost, NeuralProphet</span>
-      </div>
-      <div class="expertise-item">
-        <span class="expertise-icon">🎓</span>
-        <span class="expertise-text">MBA FGV • Executive Education NYU Stern</span>
-      </div>
-    </div>
-    <div class="certifications">
-      <span class="cert-badge aws">AWS ML Associate</span>
-      <span class="cert-badge azure">Azure AI Engineer</span>
-      <span class="cert-badge additional">AI-900 • AZ-900 • DP-900</span>
-    </div>
-  </div>
-</div>
+
 
 <div class="featured-projects-section">
   <h2 class="section-title">🌟 Featured Projects</h2>
