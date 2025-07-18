@@ -315,7 +315,7 @@
     .footer-content {
       display: flex !important;
       justify-content: space-between !important;
-      align-items: flex-start !important;
+      align-items: center !important;
       margin-bottom: 2rem !important;
       flex-wrap: wrap !important;
       gap: 2rem !important;
@@ -330,18 +330,21 @@
       color: #f1f5f9 !important;
       font-size: 1.5rem !important;
       font-weight: 700 !important;
-      margin-bottom: 0.5rem !important;
+      margin-bottom: 0.75rem !important;
     }
     
     .footer-description {
       color: #cbd5e1 !important;
-      font-size: 1rem !important;
-      line-height: 1.6 !important;
+      font-size: 0.95rem !important;
+      line-height: 1.5 !important;
       margin-bottom: 0 !important;
+      max-width: 500px !important;
     }
     
     .footer-right {
       flex-shrink: 0 !important;
+      display: flex !important;
+      align-items: center !important;
     }
     
     .social-links {
@@ -360,6 +363,7 @@
       font-weight: 500 !important;
       transition: all 0.3s ease !important;
       border: 1px solid #374151 !important;
+      white-space: nowrap !important;
     }
     
     .social-link.linkedin {
@@ -402,10 +406,16 @@
       .footer-content {
         flex-direction: column !important;
         text-align: center !important;
+        align-items: center !important;
       }
       
       .footer-left {
         min-width: auto !important;
+        text-align: center !important;
+      }
+      
+      .footer-description {
+        max-width: none !important;
       }
       
       .social-links {
