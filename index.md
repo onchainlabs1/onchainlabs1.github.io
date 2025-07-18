@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Welcome
 subtitle: AI Solutions Architect | GenAI, ML, MLOps | Turning AI into Business Outcomes
 ---
 

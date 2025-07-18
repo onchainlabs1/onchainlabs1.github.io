@@ -1,16 +1,16 @@
 # Site settings
-title: onchainlabs1 Portfolio
-name: onchainlabs1
-description: ML Engineer & Python Developer | Building AI Solutions
+title: Fabio Figueiredo Portfolio
+name: Fabio Figueiredo
+description: AI Solutions Architect | GenAI, ML, MLOps | Turning AI into Business Outcomes
 baseurl: ""
 url: "https://onchainlabs1.github.io"
 
 # Social media
 author:
-  name: onchainlabs1
+  name: Fabio Figueiredo
   email: fabio@onchainlabs.com.br
   github: onchainlabs1
-  linkedin: your-linkedin
+  linkedin: fabiofigueiredo1
 
 # Use GitHub Pages supported theme
 theme: minima
