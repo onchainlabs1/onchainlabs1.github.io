@@ -1,35 +1,70 @@
 ---
 layout: home
 title: Welcome
-subtitle: ML Engineer & Python Developer passionate about AI solutions
+subtitle: AI Solutions Architect | GenAI, ML, MLOps | Turning AI into Business Outcomes
 ---
 
 <div class="hero-banner">
   <div class="hero-content">
     <div class="hero-text">
-      <h1 class="hero-title">👋 Hello, I'm <span class="highlight">onchainlabs1</span></h1>
-      <p class="hero-subtitle">Machine Learning Engineer & Python Developer</p>
-      <p class="hero-description">Transforming data into intelligent solutions that drive real business impact</p>
+      <h1 class="hero-title">👋 Hello, I'm <span class="highlight">Fabio Figueiredo</span></h1>
+      <p class="hero-subtitle">AI Solutions Architect | GenAI, ML, MLOps</p>
+      <p class="hero-description">Turning AI into Business Outcomes | 15+ years in tech, 8+ years in applied AI | EU-Based</p>
       <div class="hero-stats">
         <div class="stat-item">
-          <span class="stat-number">16+</span>
-          <span class="stat-label">Repositories</span>
+          <span class="stat-number">15+</span>
+          <span class="stat-label">Years Tech</span>
         </div>
         <div class="stat-item">
-          <span class="stat-number">ML/AI</span>
-          <span class="stat-label">Specialist</span>
+          <span class="stat-number">8+</span>
+          <span class="stat-label">Years AI</span>
         </div>
         <div class="stat-item">
-          <span class="stat-number">Python</span>
-          <span class="stat-label">Expert</span>
+          <span class="stat-number">AWS+Azure</span>
+          <span class="stat-label">Certified</span>
         </div>
       </div>
     </div>
     <div class="hero-visual">
-      <div class="floating-card card-1">🤖 AI</div>
-      <div class="floating-card card-2">🐍 Python</div>
-      <div class="floating-card card-3">📊 Data</div>
-      <div class="floating-card card-4">🚀 ML</div>
+      <div class="floating-card card-1">🤖 GenAI</div>
+      <div class="floating-card card-2">⚡ MLOps</div>
+      <div class="floating-card card-3">📊 Forecasting</div>
+      <div class="floating-card card-4">🔗 RAG</div>
+    </div>
+  </div>
+</div>
+
+<div class="about-intro-section">
+  <div class="intro-content">
+    <h2 class="intro-title">AI Solutions Architect</h2>
+    <p class="intro-description">
+      I help organizations design and deploy AI systems that solve real problems — from forecasting and advanced ML pipelines to <strong>agentic GenAI solutions</strong> powered by LLMs, retrieval-augmented generation (RAG), and Model Context Protocols (MCPs).
+    </p>
+    <p class="intro-experience">
+      With global delivery experience across <strong>Brazil, Canada, U.S., and Europe</strong>, I specialize in Generative AI, MLOps, and advanced machine learning algorithms. As founder of <strong>On-Chain Labs</strong>, I lead both technical implementation and strategic advisory — from early discovery through scalable, production-grade deployment.
+    </p>
+    <div class="expertise-grid">
+      <div class="expertise-item">
+        <span class="expertise-icon">🔹</span>
+        <span class="expertise-text">Agentic AI, LLMs, RAG, ML forecasting</span>
+      </div>
+      <div class="expertise-item">
+        <span class="expertise-icon">🔹</span>
+        <span class="expertise-text">LangChain, MLflow, MCPs, AWS, Azure</span>
+      </div>
+      <div class="expertise-item">
+        <span class="expertise-icon">🔹</span>
+        <span class="expertise-text">LightGBM, XGBoost, NeuralProphet</span>
+      </div>
+      <div class="expertise-item">
+        <span class="expertise-icon">🎓</span>
+        <span class="expertise-text">MBA FGV • Executive Education NYU Stern</span>
+      </div>
+    </div>
+    <div class="certifications">
+      <span class="cert-badge aws">AWS ML Associate</span>
+      <span class="cert-badge azure">Azure AI Engineer</span>
+      <span class="cert-badge additional">AI-900 • AZ-900 • DP-900</span>
     </div>
   </div>
 </div>
