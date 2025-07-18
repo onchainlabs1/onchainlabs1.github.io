@@ -303,6 +303,115 @@
       transform: translateY(-2px) !important;
       box-shadow: 0 8px 25px rgba(36, 41, 46, 0.4) !important;
     }
+    
+    /* Custom Footer Styles */
+    .site-footer {
+      background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%) !important;
+      border-top: 1px solid #374151 !important;
+      padding: 3rem 0 1.5rem 0 !important;
+      margin-top: 4rem !important;
+    }
+    
+    .footer-content {
+      display: flex !important;
+      justify-content: space-between !important;
+      align-items: flex-start !important;
+      margin-bottom: 2rem !important;
+      flex-wrap: wrap !important;
+      gap: 2rem !important;
+    }
+    
+    .footer-left {
+      flex: 1 !important;
+      min-width: 300px !important;
+    }
+    
+    .footer-heading {
+      color: #f1f5f9 !important;
+      font-size: 1.5rem !important;
+      font-weight: 700 !important;
+      margin-bottom: 0.5rem !important;
+    }
+    
+    .footer-description {
+      color: #cbd5e1 !important;
+      font-size: 1rem !important;
+      line-height: 1.6 !important;
+      margin-bottom: 0 !important;
+    }
+    
+    .footer-right {
+      flex-shrink: 0 !important;
+    }
+    
+    .social-links {
+      display: flex !important;
+      gap: 1rem !important;
+      flex-wrap: wrap !important;
+    }
+    
+    .social-link {
+      display: inline-flex !important;
+      align-items: center !important;
+      gap: 0.5rem !important;
+      padding: 0.75rem 1.25rem !important;
+      border-radius: 8px !important;
+      text-decoration: none !important;
+      font-weight: 500 !important;
+      transition: all 0.3s ease !important;
+      border: 1px solid #374151 !important;
+    }
+    
+    .social-link.linkedin {
+      color: #0077b5 !important;
+      background: rgba(0, 119, 181, 0.1) !important;
+    }
+    
+    .social-link.linkedin:hover {
+      background: #0077b5 !important;
+      color: white !important;
+      transform: translateY(-2px) !important;
+      box-shadow: 0 4px 15px rgba(0, 119, 181, 0.3) !important;
+    }
+    
+    .social-link.github {
+      color: #6b7280 !important;
+      background: rgba(107, 114, 128, 0.1) !important;
+    }
+    
+    .social-link.github:hover {
+      background: #374151 !important;
+      color: white !important;
+      transform: translateY(-2px) !important;
+      box-shadow: 0 4px 15px rgba(55, 65, 81, 0.3) !important;
+    }
+    
+    .footer-bottom {
+      border-top: 1px solid #374151 !important;
+      padding-top: 1.5rem !important;
+      text-align: center !important;
+    }
+    
+    .footer-bottom p {
+      color: #9ca3af !important;
+      font-size: 0.875rem !important;
+      margin: 0 !important;
+    }
+    
+    @media (max-width: 768px) {
+      .footer-content {
+        flex-direction: column !important;
+        text-align: center !important;
+      }
+      
+      .footer-left {
+        min-width: auto !important;
+      }
+      
+      .social-links {
+        justify-content: center !important;
+      }
+    }
   </style>
 
   {% if jekyll.environment == 'production' and site.google_analytics %}
