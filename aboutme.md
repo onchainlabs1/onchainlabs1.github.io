@@ -70,7 +70,7 @@ I'm always interested in discussing:
 
 **Ready to build something amazing together?** 
 
-[📧 Email](mailto:your-email@example.com) | [💼 LinkedIn](https://linkedin.com/in/your-profile) | [🐱 GitHub](https://github.com/onchainlabs1)
+[💼 LinkedIn](https://linkedin.com/in/fabiofigueiredo1) | [🐱 GitHub](https://github.com/onchainlabs1)
 
 ---
 

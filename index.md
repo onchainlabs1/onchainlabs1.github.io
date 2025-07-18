@@ -186,10 +186,10 @@ subtitle: AI Solutions Architect | GenAI, ML, MLOps | Turning AI into Business O
 
 <div class="cta-banner">
   <div class="cta-content">
-    <h2>💼 Ready for Your Next ML Engineer?</h2>
-    <p>I'm actively seeking opportunities in <strong>Machine Learning Engineering</strong>, <strong>Data Science</strong>, and <strong>AI Development</strong></p>
+    <h2>💼 Ready for Your Next AI Solutions Architect?</h2>
+    <p>I'm actively seeking opportunities in <strong>AI Solutions Architecture</strong>, <strong>GenAI</strong>, and <strong>MLOps</strong></p>
     <div class="cta-actions">
-      <a href="/aboutme" class="btn btn-large btn-primary">Learn More About Me</a>
+      <a href="https://linkedin.com/in/fabiofigueiredo1" class="btn btn-large btn-linkedin" target="_blank">Connect on LinkedIn</a>
       <a href="https://github.com/onchainlabs1" class="btn btn-large btn-github" target="_blank">View All Projects</a>
     </div>
   </div>
