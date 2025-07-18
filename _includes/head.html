@@ -10,51 +10,121 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
-  <!-- Force CSS reload -->
+  <!-- Dark Theme CSS -->
   <style>
-    /* Critical CSS overrides */
+    /* Dark Theme Base */
+    body {
+      background: #0a0e1a !important;
+      color: #e2e8f0 !important;
+    }
+    
+    .page-content {
+      background: #0a0e1a !important;
+    }
+    
+    .wrapper {
+      background: #0a0e1a !important;
+    }
+    
+    /* Dark Header */
     .site-header {
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+      background: linear-gradient(135deg, #1e293b 0%, #334155 100%) !important;
       border-top: none !important;
-      border-bottom: none !important;
-      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15) !important;
+      border-bottom: 1px solid #374151 !important;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5) !important;
       position: sticky !important;
       top: 0 !important;
       z-index: 100 !important;
     }
     
     .site-title {
-      color: white !important;
+      color: #f1f5f9 !important;
       font-weight: 800 !important;
       font-size: 1.8rem !important;
     }
     
     .site-nav .page-link {
-      color: white !important;
+      color: #cbd5e1 !important;
       padding: 10px 20px !important;
       border-radius: 25px !important;
       margin-left: 20px !important;
+      transition: all 0.3s ease !important;
     }
     
+    .site-nav .page-link:hover {
+      background: rgba(255, 255, 255, 0.1) !important;
+      color: #f1f5f9 !important;
+    }
+    
+    /* Dark Hero Banner */
     .hero-banner {
-      background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%) !important;
+      background: linear-gradient(135deg, #1e293b 0%, #334155 50%, #475569 100%) !important;
       padding: 60px 20px !important;
       margin: -30px -40px 60px -40px !important;
       border-radius: 0 0 30px 30px !important;
       text-align: center !important;
       min-height: 400px !important;
+      position: relative !important;
+      overflow: hidden !important;
     }
     
+    .hero-banner::before {
+      content: '' !important;
+      position: absolute !important;
+      top: 0 !important;
+      left: 0 !important;
+      right: 0 !important;
+      bottom: 0 !important;
+      background: linear-gradient(45deg, rgba(59, 130, 246, 0.1) 0%, rgba(139, 92, 246, 0.1) 100%) !important;
+      pointer-events: none !important;
+    }
+    
+    .hero-content {
+      position: relative !important;
+      z-index: 2 !important;
+    }
+    
+    .hero-title {
+      color: #f1f5f9 !important;
+      font-size: 3rem !important;
+      font-weight: 800 !important;
+      margin-bottom: 1rem !important;
+    }
+    
+    .highlight {
+      background: linear-gradient(135deg, #3b82f6, #8b5cf6) !important;
+      -webkit-background-clip: text !important;
+      -webkit-text-fill-color: transparent !important;
+      background-clip: text !important;
+    }
+    
+    .hero-subtitle, .hero-description {
+      color: #cbd5e1 !important;
+    }
+    
+    /* Dark Stat Items */
     .stat-item {
-      background: rgba(255, 255, 255, 0.9) !important;
-      border: 2px solid #667eea !important;
+      background: rgba(30, 41, 59, 0.8) !important;
+      border: 2px solid #3b82f6 !important;
       border-radius: 15px !important;
       padding: 20px !important;
       margin: 10px !important;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3) !important;
       text-align: center !important;
       min-width: 120px !important;
       display: inline-block !important;
+      backdrop-filter: blur(10px) !important;
+    }
+    
+    .stat-number {
+      color: #60a5fa !important;
+      font-weight: 700 !important;
+      font-size: 1.2rem !important;
+    }
+    
+    .stat-label {
+      color: #cbd5e1 !important;
+      font-size: 0.9rem !important;
     }
     
     .hero-stats {
@@ -65,6 +135,7 @@
       margin: 30px 0 !important;
     }
     
+    /* Enhanced Floating Cards */
     .floating-card {
       padding: 15px 20px !important;
       border-radius: 15px !important;
@@ -73,12 +144,25 @@
       margin: 10px !important;
       display: inline-block !important;
       animation: float 4s ease-in-out infinite !important;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3) !important;
     }
     
-    .card-1 { background: linear-gradient(135deg, #667eea, #764ba2) !important; }
-    .card-2 { background: linear-gradient(135deg, #f093fb, #f5576c) !important; }
-    .card-3 { background: linear-gradient(135deg, #4facfe, #00f2fe) !important; }
-    .card-4 { background: linear-gradient(135deg, #43e97b, #38f9d7) !important; }
+    .card-1 { 
+      background: linear-gradient(135deg, #667eea, #764ba2) !important; 
+      animation-delay: 0s !important;
+    }
+    .card-2 { 
+      background: linear-gradient(135deg, #f093fb, #f5576c) !important; 
+      animation-delay: 1s !important;
+    }
+    .card-3 { 
+      background: linear-gradient(135deg, #4facfe, #00f2fe) !important; 
+      animation-delay: 2s !important;
+    }
+    .card-4 { 
+      background: linear-gradient(135deg, #43e97b, #38f9d7) !important; 
+      animation-delay: 3s !important;
+    }
     
     .hero-visual {
       margin-top: 40px !important;
@@ -87,10 +171,10 @@
     
     @keyframes float {
       0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-8px); }
+      50% { transform: translateY(-10px); }
     }
     
-    /* LinkedIn CTA Button */
+    /* Enhanced LinkedIn Button */
     .hero-cta {
       margin-top: 2rem !important;
       text-align: center !important;
@@ -107,14 +191,14 @@
       border-radius: 50px !important;
       font-weight: 600 !important;
       font-size: 1.1rem !important;
-      box-shadow: 0 8px 25px rgba(0, 119, 181, 0.3) !important;
+      box-shadow: 0 8px 25px rgba(0, 119, 181, 0.4) !important;
       transition: all 0.3s ease !important;
       border: none !important;
     }
     
     .linkedin-btn:hover {
-      transform: translateY(-2px) !important;
-      box-shadow: 0 12px 35px rgba(0, 119, 181, 0.4) !important;
+      transform: translateY(-3px) !important;
+      box-shadow: 0 12px 35px rgba(0, 119, 181, 0.6) !important;
       color: white !important;
       text-decoration: none !important;
     }
@@ -125,6 +209,74 @@
     
     .linkedin-btn:hover svg:last-child {
       transform: translateX(3px) !important;
+    }
+    
+    /* Dark Featured Projects Section */
+    .featured-projects-section {
+      background: linear-gradient(135deg, #111827 0%, #1f2937 100%) !important;
+      padding: 4rem 2rem !important;
+      margin: 0 -40px !important;
+    }
+    
+    .section-title {
+      color: #f1f5f9 !important;
+    }
+    
+    .section-subtitle {
+      color: #9ca3af !important;
+    }
+    
+    /* Dark Project Cards */
+    .flagship-project {
+      background: rgba(30, 41, 59, 0.6) !important;
+      border: 1px solid #374151 !important;
+      backdrop-filter: blur(10px) !important;
+    }
+    
+    .project-content h3 {
+      color: #f1f5f9 !important;
+    }
+    
+    .project-tagline, .project-description {
+      color: #cbd5e1 !important;
+    }
+    
+    .other-projects-section {
+      background: #0a0e1a !important;
+      padding: 4rem 2rem !important;
+    }
+    
+    .subsection-title {
+      color: #f1f5f9 !important;
+    }
+    
+    .project-card {
+      background: rgba(30, 41, 59, 0.6) !important;
+      border: 1px solid #374151 !important;
+      backdrop-filter: blur(10px) !important;
+    }
+    
+    .project-card h4 {
+      color: #f1f5f9 !important;
+    }
+    
+    .project-card p {
+      color: #cbd5e1 !important;
+    }
+    
+    /* Dark CTA Banner */
+    .cta-banner {
+      background: linear-gradient(135deg, #1e293b 0%, #334155 100%) !important;
+      border: 1px solid #374151 !important;
+      margin: 0 -40px !important;
+    }
+    
+    .cta-content h2 {
+      color: #f1f5f9 !important;
+    }
+    
+    .cta-content p {
+      color: #cbd5e1 !important;
     }
   </style>
 
