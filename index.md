@@ -186,7 +186,7 @@ subtitle: AI Solutions Architect | GenAI, ML, MLOps | Turning AI into Business O
 
 <div class="cta-banner">
   <div class="cta-content">
-    <h2>💼 Ready for Your Next AI Solutions Architect?</h2>
+    <h2>💼 Ready for Your Next AI Engineer?</h2>
     <p>I'm actively seeking opportunities in <strong>AI Solutions Architecture</strong>, <strong>GenAI</strong>, and <strong>MLOps</strong></p>
     <div class="cta-actions">
       <a href="https://linkedin.com/in/fabiofigueiredo1" class="btn btn-large btn-linkedin" target="_blank">Connect on LinkedIn</a>
