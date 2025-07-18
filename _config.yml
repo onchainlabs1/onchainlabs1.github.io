@@ -8,51 +8,29 @@ url: "https://onchainlabs1.github.io"
 # Social media
 author:
   name: onchainlabs1
-  email: your-email@example.com  # Substitua pelo seu email
+  email: fabio@onchainlabs.com.br
   github: onchainlabs1
-  linkedin: your-linkedin  # Substitua pelo seu LinkedIn
+  linkedin: your-linkedin
 
-# Beautiful Jekyll theme
-remote_theme: daattali/beautiful-jekyll
+# Use GitHub Pages supported theme
+theme: minima
 
 # Navigation
-navbar-links:
-  About: "aboutme"
-  Projects: "projects"
-  GitHub: "https://github.com/onchainlabs1"
-
-# Image settings
-avatar: "/assets/img/avatar.jpg"  # Opcional: adicione sua foto
-
-# Footer
-footer-links-active:
-  email: true
-  github: true
-  linkedin: true
+header_pages:
+  - aboutme.md
+  - projects.md
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
 
-# Plugins
+# Plugins supported by GitHub Pages
 plugins:
-  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude files
 exclude:
   - README.md
   - Gemfile
-  - Gemfile.lock
-
-# Theme customization
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777" 
+  - Gemfile.lock 
