@@ -3,7 +3,8 @@
 
 @import "minima";
 
-/* Modern Professional Portfolio Styles */
+/* Modern Professional Portfolio Styles - Force Update v2 */
+/* Last updated: 2025-07-18 */
 
 /* Enhanced Color Palette */
 :root {
@@ -25,18 +26,20 @@
   --shadow-colored: 0 10px 30px rgba(102, 126, 234, 0.3);
 }
 
-/* Typography improvements */
+/* Force CSS to apply - test */
 body {
-  font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   line-height: 1.7;
   color: #333;
   overflow-x: hidden;
+  background: #ffffff !important;
 }
 
+/* Header styling with higher specificity */
 .site-header {
-  background: var(--gradient-hero);
-  box-shadow: var(--shadow-lg);
-  border-bottom: none;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15) !important;
+  border-bottom: none !important;
   position: sticky;
   top: 0;
   z-index: 100;
@@ -65,20 +68,21 @@ body {
 }
 
 .site-nav .page-link:hover {
-  background: rgba(255, 255, 255, 0.25);
+  background: rgba(255, 255, 255, 0.25) !important;
   color: white !important;
   text-decoration: none;
   transform: translateY(-2px);
 }
 
-/* Hero Banner - Simplified for better compatibility */
+/* Hero Banner with forced styling */
 .hero-banner {
-  background: var(--gradient-cta);
-  padding: 60px 20px;
-  margin: -30px -40px 60px -40px;
+  background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%) !important;
+  padding: 60px 20px !important;
+  margin: -30px -40px 60px -40px !important;
   position: relative;
   text-align: center;
-  border-radius: 0 0 30px 30px;
+  border-radius: 0 0 30px 30px !important;
+  min-height: 400px;
 }
 
 .hero-content {
@@ -89,15 +93,15 @@ body {
 }
 
 .hero-title {
-  font-size: 3.5rem;
-  font-weight: 900;
-  color: var(--dark-bg);
+  font-size: 3.5rem !important;
+  font-weight: 900 !important;
+  color: #1a1a2e !important;
   margin-bottom: 1rem;
   line-height: 1.1;
 }
 
 .highlight {
-  background: var(--gradient-hero);
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -105,21 +109,22 @@ body {
 }
 
 .hero-subtitle {
-  font-size: 1.5rem;
-  font-weight: 600;
-  color: var(--primary-color);
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+  color: #2c3e50 !important;
   margin: 1rem 0;
 }
 
 .hero-description {
-  font-size: 1.2rem;
-  color: #666;
+  font-size: 1.2rem !important;
+  color: #666 !important;
   margin: 1.5rem 0 2rem 0;
   line-height: 1.6;
 }
 
+/* Stats cards with forced styling */
 .hero-stats {
-  display: flex;
+  display: flex !important;
   justify-content: center;
   gap: 30px;
   margin-top: 30px;
@@ -127,83 +132,89 @@ body {
 }
 
 .stat-item {
-  text-align: center;
-  padding: 20px;
-  background: rgba(255, 255, 255, 0.9);
-  border-radius: 15px;
-  box-shadow: var(--shadow);
+  text-align: center !important;
+  padding: 20px !important;
+  background: rgba(255, 255, 255, 0.9) !important;
+  border-radius: 15px !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
   transition: all 0.3s ease;
   min-width: 120px;
+  border: 2px solid #667eea !important;
 }
 
 .stat-item:hover {
-  transform: translateY(-5px);
-  box-shadow: var(--shadow-lg);
+  transform: translateY(-5px) !important;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15) !important;
 }
 
 .stat-number {
-  display: block;
-  font-size: 1.4rem;
-  font-weight: 800;
-  color: var(--primary-color);
+  display: block !important;
+  font-size: 1.4rem !important;
+  font-weight: 800 !important;
+  color: #2c3e50 !important;
 }
 
 .stat-label {
-  display: block;
-  font-size: 0.85rem;
-  color: #666;
+  display: block !important;
+  font-size: 0.85rem !important;
+  color: #666 !important;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
 
-/* Floating Cards - Simplified */
+/* Floating Cards with forced styling */
 .hero-visual {
-  margin-top: 40px;
-  display: flex;
+  margin-top: 40px !important;
+  display: flex !important;
   justify-content: center;
   flex-wrap: wrap;
   gap: 15px;
 }
 
 .floating-card {
-  padding: 15px 20px;
-  background: rgba(255, 255, 255, 0.95);
-  border-radius: 15px;
-  box-shadow: var(--shadow);
-  font-weight: 700;
-  font-size: 1rem;
+  padding: 15px 20px !important;
+  background: rgba(255, 255, 255, 0.95) !important;
+  border-radius: 15px !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+  font-weight: 700 !important;
+  font-size: 1rem !important;
   transition: all 0.3s ease;
   animation: float 4s ease-in-out infinite;
 }
 
 .card-1 {
-  background: linear-gradient(135deg, #667eea, #764ba2);
-  color: white;
+  background: linear-gradient(135deg, #667eea, #764ba2) !important;
+  color: white !important;
   animation-delay: 0s;
 }
 
 .card-2 {
-  background: linear-gradient(135deg, #f093fb, #f5576c);
-  color: white;
+  background: linear-gradient(135deg, #f093fb, #f5576c) !important;
+  color: white !important;
   animation-delay: 1s;
 }
 
 .card-3 {
-  background: linear-gradient(135deg, #4facfe, #00f2fe);
-  color: white;
+  background: linear-gradient(135deg, #4facfe, #00f2fe) !important;
+  color: white !important;
   animation-delay: 2s;
 }
 
 .card-4 {
-  background: linear-gradient(135deg, #43e97b, #38f9d7);
-  color: white;
+  background: linear-gradient(135deg, #43e97b, #38f9d7) !important;
+  color: white !important;
   animation-delay: 3s;
 }
 
 @keyframes float {
   0%, 100% { transform: translateY(0px); }
   50% { transform: translateY(-8px); }
+}
+
+/* Test styles to ensure CSS is loading */
+h1, h2, h3 {
+  color: #2c3e50 !important;
 }
 
 /* Featured Projects Section */
@@ -619,12 +630,12 @@ body {
 /* Responsive design */
 @media (max-width: 768px) {
   .hero-banner {
-    padding: 40px 15px;
-    margin: -20px -20px 40px -20px;
+    padding: 40px 15px !important;
+    margin: -20px -20px 40px -20px !important;
   }
   
   .hero-title {
-    font-size: 2.5rem;
+    font-size: 2.5rem !important;
   }
   
   .hero-stats {
