@@ -38,7 +38,7 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
     <div class="hero-visual">
       <div class="floating-card card-1">🤖 GenAI</div>
       <div class="floating-card card-2">⚡ MLOps</div>
-      <div class="floating-card card-3">📊 Forecasting</div>
+      <div class="floating-card card-3">🎯 Agentic AI</div>
       <div class="floating-card card-4">🔗 RAG</div>
     </div>
   </div>
@@ -188,7 +188,7 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
     
     <div class="about-content">
       <p class="about-paragraph">
-        I'm Fabio Figueiredo, an AI Solutions Architect with 15+ years in tech and 8+ years in applied AI. I specialize in GenAI, MLOps, time series forecasting, and LLM-based solutions — transforming complex ideas into scalable, production-grade systems.
+        I'm Fabio Figueiredo, an AI Solutions Architect with 15+ years in tech and 8+ years in applied AI. I specialize in GenAI, MLOps, Agentic AI, and LLM-based solutions — transforming complex ideas into scalable, production-grade systems.
       </p>
       
       <p class="about-paragraph">
