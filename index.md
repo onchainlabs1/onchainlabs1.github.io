@@ -216,7 +216,7 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
       </p>
       
       <div class="certifications">
-        <h3 class="certifications-title">🏅 Certifications</h3>
+        <h3 class="certifications-title">☁️ Cloud Certifications</h3>
         <div class="certification-badges">
           <a href="https://www.credly.com/badges/7cc8adcd-4fca-4d84-a642-2af69d6490e3/public_url" target="_blank" rel="noopener" class="cert-link">
             <div class="cert-item">
