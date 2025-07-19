@@ -44,7 +44,39 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
   </div>
 </div>
 
-
+<section id="about" class="about-section">
+  <div class="about-container">
+    <h2 class="about-title">👋 About Me</h2>
+    
+    <div class="about-content">
+      <p class="about-paragraph">
+        I'm Fabio Figueiredo, an AI Solutions Architect with over 15 years of experience in tech and 8+ years in applied AI.
+        I specialize in GenAI, MLOps, time series forecasting, and scalable LLM-based solutions — transforming complex ideas into production-grade systems.
+      </p>
+      
+      <p class="about-paragraph">
+        I bring a rare blend of technical expertise and strategic thinking, having worked across startups, consulting, and enterprise contexts.
+        I hold an MBA from FGV and completed executive education in Marketing Analytics at NYU Stern, combining business acumen with deep AI engineering skills.
+      </p>
+      
+      <p class="about-paragraph">
+        I'm passionate about helping organizations move from prototypes to real-world AI solutions — responsibly, efficiently, and with measurable impact.
+      </p>
+      
+      <div class="certifications">
+        <h3 class="certifications-title">🏅 Certifications</h3>
+        <div class="certification-badges">
+          <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML Associate" class="cert-badge">
+          <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner" class="cert-badge">
+          <img src="https://img.shields.io/badge/Azure-AI%20Engineer%20(AI--102)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI Engineer" class="cert-badge">
+          <img src="https://img.shields.io/badge/Azure-AI%20Fundamentals%20(AI--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI Fundamentals" class="cert-badge">
+          <img src="https://img.shields.io/badge/Azure-Data%20Fundamentals%20(DP--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Fundamentals" class="cert-badge">
+          <img src="https://img.shields.io/badge/Azure-Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Fundamentals" class="cert-badge">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 <div class="featured-projects-section">
   <h2 class="section-title">🌟 Featured Projects</h2>

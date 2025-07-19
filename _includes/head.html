@@ -381,6 +381,103 @@
         gap: 0.75rem !important;
       }
     }
+    
+    /* About Section */
+    .about-section {
+      background: #f7f7f7 !important;
+      padding: 60px 20px !important;
+      margin: 0 -40px !important;
+    }
+    
+    .about-container {
+      max-width: 800px !important;
+      margin: 0 auto !important;
+      text-align: center !important;
+    }
+    
+    .about-title {
+      font-size: 2.5rem !important;
+      font-weight: 800 !important;
+      color: #1e293b !important;
+      margin-bottom: 2rem !important;
+      text-align: center !important;
+    }
+    
+    .about-content {
+      text-align: left !important;
+    }
+    
+    .about-paragraph {
+      font-size: 1.125rem !important;
+      line-height: 1.75 !important;
+      color: #334155 !important;
+      margin-bottom: 1.5rem !important;
+      font-weight: 400 !important;
+    }
+    
+    .certifications {
+      margin-top: 2.5rem !important;
+      text-align: center !important;
+    }
+    
+    .certifications-title {
+      font-size: 1.5rem !important;
+      font-weight: 700 !important;
+      color: #1e293b !important;
+      margin-bottom: 1.5rem !important;
+    }
+    
+    .certification-badges {
+      display: flex !important;
+      flex-wrap: wrap !important;
+      justify-content: center !important;
+      gap: 0.75rem !important;
+      align-items: center !important;
+    }
+    
+    .cert-badge {
+      height: 28px !important;
+      border-radius: 4px !important;
+      transition: transform 0.2s ease !important;
+    }
+    
+    .cert-badge:hover {
+      transform: scale(1.05) !important;
+    }
+    
+    @media (max-width: 768px) {
+      .about-section {
+        padding: 40px 15px !important;
+        margin: 0 -20px !important;
+      }
+      
+      .about-title {
+        font-size: 2rem !important;
+      }
+      
+      .about-paragraph {
+        font-size: 1rem !important;
+        text-align: left !important;
+      }
+      
+      .certification-badges {
+        justify-content: center !important;
+        gap: 0.5rem !important;
+      }
+      
+      .cert-badge {
+        height: 24px !important;
+        flex: 0 1 calc(50% - 0.25rem) !important;
+        max-width: 200px !important;
+      }
+    }
+    
+    @media (max-width: 480px) {
+      .cert-badge {
+        flex: 0 1 100% !important;
+        height: 26px !important;
+      }
+    }
   </style>
 
   {% if jekyll.environment == 'production' and site.google_analytics %}
