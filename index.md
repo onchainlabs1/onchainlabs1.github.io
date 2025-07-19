@@ -12,15 +12,15 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
       <div class="hero-stats">
         <div class="stat-item">
           <span class="stat-number">15+</span>
-          <span class="stat-label">Years Tech</span>
+          <span class="stat-label">years in tech</span>
         </div>
         <div class="stat-item">
           <span class="stat-number">8+</span>
-          <span class="stat-label">Years AI</span>
+          <span class="stat-label">years in AI</span>
         </div>
         <div class="stat-item">
-          <span class="stat-number">AWS+Azure</span>
-          <span class="stat-label">Certified</span>
+          <span class="stat-number">AWS + Azure</span>
+          <span class="stat-label">certified</span>
         </div>
       </div>
       <div class="hero-cta">
