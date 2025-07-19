@@ -188,17 +188,15 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
     
     <div class="about-content">
       <p class="about-paragraph">
-        I'm Fabio Figueiredo, an <strong>AI Solutions Architect</strong> with over <strong>15 years of experience in tech</strong> and <strong>8+ years in applied AI</strong>.
-        I specialize in <strong>GenAI</strong>, <strong>MLOps</strong>, <strong>time series forecasting</strong>, and <strong>scalable LLM-based solutions</strong> — transforming complex ideas into <strong>production-grade systems</strong>.
+        I'm Fabio Figueiredo, an AI Solutions Architect with 15+ years in tech and 8+ years in applied AI. I specialize in GenAI, MLOps, time series forecasting, and LLM-based solutions — transforming complex ideas into scalable, production-grade systems.
       </p>
       
       <p class="about-paragraph">
-        I bring a rare blend of <strong>technical expertise</strong> and <strong>strategic thinking</strong>, having worked across startups, consulting, and enterprise contexts.
-        I hold an <strong>MBA from FGV</strong> and completed <strong>executive education in Marketing Analytics at NYU Stern</strong>, combining <strong>business acumen</strong> with <strong>deep AI engineering skills</strong>.
+        I bring a unique mix of technical expertise and strategic thinking, with experience across startups, consulting, and enterprise environments. I hold an MBA from FGV and completed executive education in Marketing Analytics at NYU Stern, combining business insight with practical AI engineering.
       </p>
       
       <p class="about-paragraph">
-        I'm passionate about helping organizations move from <strong>prototypes</strong> to <strong>real-world AI solutions</strong> — responsibly, efficiently, and with <strong>measurable impact</strong>.
+        I'm passionate about helping organizations move from prototype to real-world AI deployment — responsibly, efficiently, and with measurable impact.
       </p>
       
       <div class="certifications">
