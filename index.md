@@ -44,40 +44,6 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
   </div>
 </div>
 
-<section id="about" class="about-section">
-  <div class="about-container">
-    <h2 class="about-title">👋 About Me</h2>
-    
-    <div class="about-content">
-      <p class="about-paragraph">
-        I'm Fabio Figueiredo, an AI Solutions Architect with over 15 years of experience in tech and 8+ years in applied AI.
-        I specialize in GenAI, MLOps, time series forecasting, and scalable LLM-based solutions — transforming complex ideas into production-grade systems.
-      </p>
-      
-      <p class="about-paragraph">
-        I bring a rare blend of technical expertise and strategic thinking, having worked across startups, consulting, and enterprise contexts.
-        I hold an MBA from FGV and completed executive education in Marketing Analytics at NYU Stern, combining business acumen with deep AI engineering skills.
-      </p>
-      
-      <p class="about-paragraph">
-        I'm passionate about helping organizations move from prototypes to real-world AI solutions — responsibly, efficiently, and with measurable impact.
-      </p>
-      
-      <div class="certifications">
-        <h3 class="certifications-title">🏅 Certifications</h3>
-        <div class="certification-badges">
-          <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML Associate" class="cert-badge">
-          <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner" class="cert-badge">
-          <img src="https://img.shields.io/badge/Azure-AI%20Engineer%20(AI--102)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI Engineer" class="cert-badge">
-          <img src="https://img.shields.io/badge/Azure-AI%20Fundamentals%20(AI--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI Fundamentals" class="cert-badge">
-          <img src="https://img.shields.io/badge/Azure-Data%20Fundamentals%20(DP--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Fundamentals" class="cert-badge">
-          <img src="https://img.shields.io/badge/Azure-Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Fundamentals" class="cert-badge">
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
 <div class="featured-projects-section">
   <h2 class="section-title">🌟 Featured Projects</h2>
   <p class="section-subtitle">Production-ready AI solutions driving measurable business value across industries</p>
@@ -215,6 +181,89 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
     </div>
   </div>
 </div>
+
+<section id="about" class="about-section">
+  <div class="about-container">
+    <h2 class="about-title">👋 About Me</h2>
+    
+    <div class="about-content">
+      <p class="about-paragraph">
+        I'm Fabio Figueiredo, an AI Solutions Architect with over 15 years of experience in tech and 8+ years in applied AI.
+        I specialize in GenAI, MLOps, time series forecasting, and scalable LLM-based solutions — transforming complex ideas into production-grade systems.
+      </p>
+      
+      <p class="about-paragraph">
+        I bring a rare blend of technical expertise and strategic thinking, having worked across startups, consulting, and enterprise contexts.
+        I hold an MBA from FGV and completed executive education in Marketing Analytics at NYU Stern, combining business acumen with deep AI engineering skills.
+      </p>
+      
+      <p class="about-paragraph">
+        I'm passionate about helping organizations move from prototypes to real-world AI solutions — responsibly, efficiently, and with measurable impact.
+      </p>
+      
+      <div class="certifications">
+        <h3 class="certifications-title">🏅 Certifications</h3>
+                 <div class="certification-logos">
+           <div class="cert-item">
+             <div class="cert-logo aws-ml">
+               <div class="cert-hex aws-orange">
+                 <div class="cert-content">
+                   <div class="cert-badge">AWS</div>
+                   <div class="cert-title">Machine Learning</div>
+                   <div class="cert-level">ASSOCIATE</div>
+                 </div>
+               </div>
+             </div>
+             <span class="cert-name">AWS ML Associate</span>
+             <span class="cert-date">Mar 2025</span>
+           </div>
+           
+           <div class="cert-item">
+             <div class="cert-logo aws-ai">
+               <div class="cert-hex aws-orange">
+                 <div class="cert-content">
+                   <div class="cert-badge">AWS</div>
+                   <div class="cert-title">AI Practitioner</div>
+                   <div class="cert-level">CERTIFIED</div>
+                 </div>
+               </div>
+             </div>
+             <span class="cert-name">AWS AI Practitioner</span>
+             <span class="cert-date">Jan 2025</span>
+           </div>
+           
+           <div class="cert-item">
+             <div class="cert-logo azure-ai">
+               <div class="cert-shield azure-blue">
+                 <div class="cert-content">
+                   <div class="cert-badge">Microsoft</div>
+                   <div class="cert-title">Azure AI Engineer</div>
+                   <div class="cert-level">ASSOCIATE</div>
+                 </div>
+               </div>
+             </div>
+             <span class="cert-name">Azure AI Engineer</span>
+             <span class="cert-date">AI-102</span>
+           </div>
+           
+           <div class="cert-item">
+             <div class="cert-logo azure-fund">
+               <div class="cert-shield azure-blue">
+                 <div class="cert-content">
+                   <div class="cert-badge">Azure</div>
+                   <div class="cert-title">Fundamentals</div>
+                   <div class="cert-level">3x CERTIFIED</div>
+                 </div>
+               </div>
+             </div>
+             <span class="cert-name">Azure Fundamentals</span>
+             <span class="cert-date">AI-900, DP-900, AZ-900</span>
+           </div>
+         </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 <div class="cta-banner">
   <div class="cta-content">
