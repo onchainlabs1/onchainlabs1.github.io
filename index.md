@@ -133,7 +133,7 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
     <div class="project-card">
       <div class="project-header">
         <span class="project-emoji">🚀</span>
-        <h4>lemay</h4>
+        <h4>Azure AI Deployment Platform</h4>
       </div>
       <p>Production AI deployment with BERT sentiment analysis on Azure Container Instances using Docker containerization</p>
       <div class="project-badges">
@@ -147,7 +147,7 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
     <div class="project-card">
       <div class="project-header">
         <span class="project-emoji">🎯</span>
-        <h4>groq-classifier</h4>
+        <h4>High-Performance ML Classifier</h4>
       </div>
       <p>High-performance classification system achieving 94% accuracy in production environments</p>
       <div class="project-badges">
@@ -160,7 +160,7 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
     <div class="project-card">
       <div class="project-header">
         <span class="project-emoji">📈</span>
-        <h4>forecast-pipeline</h4>
+        <h4>Time Series Forecasting Pipeline</h4>
       </div>
       <p>Production forecasting pipeline delivering accurate demand predictions with 85% forecast accuracy</p>
       <div class="project-badges">
@@ -173,7 +173,7 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
     <div class="project-card">
       <div class="project-header">
         <span class="project-emoji">🏆</span>
-        <h4>hfhackathon</h4>
+        <h4>AI Innovation Showcase</h4>
       </div>
       <p>Hackathon project showcasing rapid innovation in AI/ML</p>
       <div class="project-badges">
@@ -186,7 +186,7 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
     <div class="project-card">
       <div class="project-header">
         <span class="project-emoji">🔍</span>
-        <h4>exploratory</h4>
+        <h4>Data Science Analytics Suite</h4>
       </div>
       <p>Data exploration and analysis with Jupyter notebooks</p>
       <div class="project-badges">
