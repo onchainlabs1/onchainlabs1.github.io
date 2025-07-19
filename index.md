@@ -203,63 +203,67 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
       
       <div class="certifications">
         <h3 class="certifications-title">🏅 Certifications</h3>
-                 <div class="certification-logos">
-           <div class="cert-item">
-             <div class="cert-logo aws-ml">
-               <div class="cert-hex aws-orange">
-                 <div class="cert-content">
-                   <div class="cert-badge">AWS</div>
-                   <div class="cert-title">Machine Learning</div>
-                   <div class="cert-level">ASSOCIATE</div>
-                 </div>
-               </div>
-             </div>
-             <span class="cert-name">AWS ML Associate</span>
-             <span class="cert-date">Mar 2025</span>
-           </div>
-           
-           <div class="cert-item">
-             <div class="cert-logo aws-ai">
-               <div class="cert-hex aws-orange">
-                 <div class="cert-content">
-                   <div class="cert-badge">AWS</div>
-                   <div class="cert-title">AI Practitioner</div>
-                   <div class="cert-level">CERTIFIED</div>
-                 </div>
-               </div>
-             </div>
-             <span class="cert-name">AWS AI Practitioner</span>
-             <span class="cert-date">Jan 2025</span>
-           </div>
-           
-           <div class="cert-item">
-             <div class="cert-logo azure-ai">
-               <div class="cert-shield azure-blue">
-                 <div class="cert-content">
-                   <div class="cert-badge">Microsoft</div>
-                   <div class="cert-title">Azure AI Engineer</div>
-                   <div class="cert-level">ASSOCIATE</div>
-                 </div>
-               </div>
-             </div>
-             <span class="cert-name">Azure AI Engineer</span>
-             <span class="cert-date">AI-102</span>
-           </div>
-           
-           <div class="cert-item">
-             <div class="cert-logo azure-fund">
-               <div class="cert-shield azure-blue">
-                 <div class="cert-content">
-                   <div class="cert-badge">Azure</div>
-                   <div class="cert-title">Fundamentals</div>
-                   <div class="cert-level">3x CERTIFIED</div>
-                 </div>
-               </div>
-             </div>
-             <span class="cert-name">Azure Fundamentals</span>
-             <span class="cert-date">AI-900, DP-900, AZ-900</span>
-           </div>
-         </div>
+        <div class="certification-badges">
+          <a href="https://www.credly.com/badges/7cc8adcd-4fca-4d84-a642-2af69d6490e3/public_url" target="_blank" rel="noopener" class="cert-link">
+            <div class="cert-item">
+              <img src="/assets/images/aws_ml_engineer.png" alt="AWS Certified Machine Learning Engineer – Associate" class="cert-badge-img">
+              <div class="cert-info">
+                <span class="cert-name">AWS ML Engineer Associate</span>
+                <span class="cert-date">Verify on Credly</span>
+              </div>
+            </div>
+          </a>
+          
+          <a href="https://www.credly.com/badges/386eebe5-7e9b-49bf-af9e-da11b880927c/public_url" target="_blank" rel="noopener" class="cert-link">
+            <div class="cert-item">
+              <img src="/assets/images/aws_ai_practicioner.png" alt="AWS Certified AI Practitioner" class="cert-badge-img">
+              <div class="cert-info">
+                <span class="cert-name">AWS AI Practitioner</span>
+                <span class="cert-date">Verify on Credly</span>
+              </div>
+            </div>
+          </a>
+          
+          <a href="https://learn.microsoft.com/en-us/users/fabioleitelopesfigueiredo-2190/credentials/3b9d9715c0008a9b" target="_blank" rel="noopener" class="cert-link">
+            <div class="cert-item">
+              <img src="/assets/images/azure_ai_engineer.png" alt="Microsoft Certified: Azure AI Engineer Associate" class="cert-badge-img">
+              <div class="cert-info">
+                <span class="cert-name">Azure AI Engineer Associate</span>
+                <span class="cert-date">Verify on Microsoft Learn</span>
+              </div>
+            </div>
+          </a>
+          
+          <a href="https://learn.microsoft.com/en-us/users/fabioleitelopesfigueiredo-2190/credentials/f3930342ff93fd85" target="_blank" rel="noopener" class="cert-link">
+            <div class="cert-item">
+              <img src="/assets/images/ai_fundamentals.png" alt="Microsoft Certified: Azure AI Fundamentals" class="cert-badge-img">
+              <div class="cert-info">
+                <span class="cert-name">Azure AI Fundamentals</span>
+                <span class="cert-date">Verify on Microsoft Learn</span>
+              </div>
+            </div>
+          </a>
+          
+          <a href="https://learn.microsoft.com/en-us/users/fabioleitelopesfigueiredo-2190/credentials/fa9a537facb4201e" target="_blank" rel="noopener" class="cert-link">
+            <div class="cert-item">
+              <img src="/assets/images/azure_data_fundamentals.png" alt="Microsoft Certified: Azure Data Fundamentals" class="cert-badge-img">
+              <div class="cert-info">
+                <span class="cert-name">Azure Data Fundamentals</span>
+                <span class="cert-date">Verify on Microsoft Learn</span>
+              </div>
+            </div>
+          </a>
+          
+          <a href="https://learn.microsoft.com/en-us/users/fabioleitelopesfigueiredo-2190/credentials/b5a158d6f12c0bf3" target="_blank" rel="noopener" class="cert-link">
+            <div class="cert-item">
+              <img src="/assets/images/azure_fundamentals.png" alt="Microsoft Certified: Azure Fundamentals" class="cert-badge-img">
+              <div class="cert-info">
+                <span class="cert-name">Azure Fundamentals</span>
+                <span class="cert-date">Verify on Microsoft Learn</span>
+              </div>
+            </div>
+          </a>
+        </div>
       </div>
     </div>
   </div>
