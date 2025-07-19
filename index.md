@@ -188,17 +188,17 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
     
     <div class="about-content">
       <p class="about-paragraph">
-        I'm Fabio Figueiredo, an AI Solutions Architect with over 15 years of experience in tech and 8+ years in applied AI.
-        I specialize in GenAI, MLOps, time series forecasting, and scalable LLM-based solutions — transforming complex ideas into production-grade systems.
+        I'm Fabio Figueiredo, an **AI Solutions Architect** with over **15 years of experience in tech** and **8+ years in applied AI**.
+        I specialize in **GenAI**, **MLOps**, **time series forecasting**, and **scalable LLM-based solutions** — transforming complex ideas into **production-grade systems**.
       </p>
       
       <p class="about-paragraph">
-        I bring a rare blend of technical expertise and strategic thinking, having worked across startups, consulting, and enterprise contexts.
-        I hold an MBA from FGV and completed executive education in Marketing Analytics at NYU Stern, combining business acumen with deep AI engineering skills.
+        I bring a rare blend of **technical expertise** and **strategic thinking**, having worked across startups, consulting, and enterprise contexts.
+        I hold an **MBA from FGV** and completed **executive education in Marketing Analytics at NYU Stern**, combining **business acumen** with **deep AI engineering skills**.
       </p>
       
       <p class="about-paragraph">
-        I'm passionate about helping organizations move from prototypes to real-world AI solutions — responsibly, efficiently, and with measurable impact.
+        I'm passionate about helping organizations move from **prototypes** to **real-world AI solutions** — responsibly, efficiently, and with **measurable impact**.
       </p>
       
       <div class="certifications">
@@ -214,22 +214,22 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
             </div>
           </a>
           
-          <a href="https://www.credly.com/badges/386eebe5-7e9b-49bf-af9e-da11b880927c/public_url" target="_blank" rel="noopener" class="cert-link">
-            <div class="cert-item">
-              <img src="/assets/images/aws_ai_practicioner.png" alt="AWS Certified AI Practitioner" class="cert-badge-img">
-              <div class="cert-info">
-                <span class="cert-name">AWS AI Practitioner</span>
-                <span class="cert-date">Verify on Credly</span>
-              </div>
-            </div>
-          </a>
-          
           <a href="https://learn.microsoft.com/en-us/users/fabioleitelopesfigueiredo-2190/credentials/3b9d9715c0008a9b" target="_blank" rel="noopener" class="cert-link">
             <div class="cert-item">
               <img src="/assets/images/azure_ai_engineer.png" alt="Microsoft Certified: Azure AI Engineer Associate" class="cert-badge-img">
               <div class="cert-info">
                 <span class="cert-name">Azure AI Engineer Associate</span>
                 <span class="cert-date">Verify on Microsoft Learn</span>
+              </div>
+            </div>
+          </a>
+          
+          <a href="https://www.credly.com/badges/386eebe5-7e9b-49bf-af9e-da11b880927c/public_url" target="_blank" rel="noopener" class="cert-link">
+            <div class="cert-item">
+              <img src="/assets/images/aws_ai_practicioner.png" alt="AWS Certified AI Practitioner" class="cert-badge-img">
+              <div class="cert-info">
+                <span class="cert-name">AWS AI Practitioner</span>
+                <span class="cert-date">Verify on Credly</span>
               </div>
             </div>
           </a>
