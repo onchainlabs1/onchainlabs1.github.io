@@ -63,7 +63,6 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
           Robust, end-to-end platform for retail sales forecasting. Features an interactive dashboard (Streamlit), real-time model monitoring, explainable AI, and secure JWT-based authentication. Built with Python, FastAPI, MLflow, and modern MLOps best practices. Designed to help retailers optimize inventory, plan promotions, and improve operational efficiency.
         </p>
         <div class="project-tech">
-          <span class="tech-tag">Python</span>
           <span class="tech-tag">FastAPI</span>
           <span class="tech-tag">Streamlit</span>
           <span class="tech-tag">MLflow</span>
