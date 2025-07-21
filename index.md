@@ -201,13 +201,13 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AWS & Azure Certified
         <span class="project-emoji">🏠</span>
         <h4>RE-Advisor: Agentic AI for Real Estate</h4>
       </div>
-      <p>LLM-powered agent that analyzes property portfolios in real time and recommends rent changes or acquisitions. Integrates live market data, Groq LLM reasoning, online ML (River), and automated actions via MCP. Built with Streamlit for instant business insights.</p>
+      <p>LLM-powered agent for real estate portfolios.<br>Recommends rent changes and acquisitions in real time, combining live market data, Groq LLM reasoning, online ML (River), and automated actions via MCP.<br>Built with Streamlit for instant business insights.</p>
       <div class="project-badges">
-        <span class="badge badge-ai">Agentic AI</span>
-        <span class="badge badge-streamlit">Streamlit</span>
-        <span class="badge badge-llm">Groq LLM</span>
-        <span class="badge badge-ml">River ML</span>
-        <span class="badge badge-mcp">MCP</span>
+        <span class="badge">Agentic AI</span>
+        <span class="badge">Streamlit</span>
+        <span class="badge">Groq LLM</span>
+        <span class="badge">River ML</span>
+        <span class="badge">MCP</span>
       </div>
       <a href="https://github.com/onchainlabs1/dubai" class="project-link" target="_blank">View →</a>
     </div>
