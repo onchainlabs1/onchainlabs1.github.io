@@ -195,6 +195,22 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
       </div>
       <a href="https://github.com/onchainlabs1/exploratory" class="project-link" target="_blank">View →</a>
     </div>
+
+    <div class="project-card">
+      <div class="project-header">
+        <span class="project-emoji">🏠</span>
+        <h4>RE-Advisor: Agentic AI for Real Estate</h4>
+      </div>
+      <p>LLM-powered agent that analyzes property portfolios in real time and recommends rent changes or acquisitions. Integrates live market data, Groq LLM reasoning, online ML (River), and automated actions via MCP. Built with Streamlit for instant business insights.</p>
+      <div class="project-badges">
+        <span class="badge badge-ai">Agentic AI</span>
+        <span class="badge badge-streamlit">Streamlit</span>
+        <span class="badge badge-llm">Groq LLM</span>
+        <span class="badge badge-ml">River ML</span>
+        <span class="badge badge-mcp">MCP</span>
+      </div>
+      <a href="https://github.com/onchainlabs1/dubai" class="project-link" target="_blank">View →</a>
+    </div>
   </div>
 </div>
 
