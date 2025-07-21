@@ -57,20 +57,21 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
         </div>
       </div>
       <div class="project-content">
-        <h3>Retail Store Analytics</h3>
-        <p class="project-tagline">AI-powered retail intelligence platform</p>
+        <h3>RetailPro AI: Sales Forecasting Platform</h3>
+        <p class="project-tagline">Store-level sales forecasting and analytics for retail chains</p>
         <p class="project-description">
-          Enterprise-grade ML platform delivering 15% increase in sales conversion and 20% reduction in inventory costs. 
-          Real-time customer behavior analysis with predictive recommendations engine.
+          Robust, end-to-end platform for retail sales forecasting. Features an interactive dashboard (Streamlit), real-time model monitoring, explainable AI, and secure JWT-based authentication. Built with Python, FastAPI, MLflow, and modern MLOps best practices. Designed to help retailers optimize inventory, plan promotions, and improve operational efficiency.
         </p>
         <div class="project-tech">
           <span class="tech-tag">Python</span>
-          <span class="tech-tag">TensorFlow</span>
-          <span class="tech-tag">Retail AI</span>
-          <span class="tech-tag">Analytics</span>
+          <span class="tech-tag">FastAPI</span>
+          <span class="tech-tag">Streamlit</span>
+          <span class="tech-tag">MLflow</span>
+          <span class="tech-tag">JWT Auth</span>
+          <span class="tech-tag">MLOps</span>
         </div>
         <div class="project-actions">
-          <a href="https://github.com/onchainlabs1/groq-classifier" class="btn btn-primary" target="_blank">
+          <a href="https://github.com/onchainlabs1/forecast-pipeline" class="btn btn-primary" target="_blank">
             <span>View Project</span>
             <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
               <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
@@ -90,21 +91,22 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
       <div class="project-image">
         <div class="project-icon">⚡</div>
         <div class="project-overlay">
-          <span class="project-status">Open Source</span>
+          <span class="project-status">Live Demo</span>
         </div>
       </div>
       <div class="project-content">
-        <h3>MCP Development Framework</h3>
-        <p class="project-tagline">Modern development toolkit and protocol</p>
+        <h3>MCP Development Framework (AgentMCP)</h3>
+        <p class="project-tagline">LLM-powered business automation for CRM, ERP, and HR</p>
         <p class="project-description">
-          Open-source development framework reducing time-to-market by 40% for AI applications. 
-          Streamlines MLOps workflows with automated testing, deployment, and monitoring capabilities.
+          AgentMCP is an AI-driven automation platform that uses large language models (LLMs) to interpret natural language instructions and execute real actions on simulated business systems. Modular microservices architecture, interactive Streamlit web interface, and robust FastAPI REST API with authentication, logging, and audit trails. Supports multi-provider LLMs (OpenAI, Anthropic, Groq), dynamic tool discovery via the Model Context Protocol (MCP), and production-ready MLOps integration.
         </p>
         <div class="project-tech">
           <span class="tech-tag">Python</span>
-          <span class="tech-tag">Framework</span>
-          <span class="tech-tag">DevTools</span>
-          <span class="tech-tag">Protocol</span>
+          <span class="tech-tag">FastAPI</span>
+          <span class="tech-tag">Streamlit</span>
+          <span class="tech-tag">MCP</span>
+          <span class="tech-tag">LLMs</span>
+          <span class="tech-tag">Audit Logging</span>
         </div>
         <div class="project-actions">
           <a href="https://github.com/onchainlabs1/llm-agent-mcp" class="btn btn-primary" target="_blank">
@@ -113,10 +115,10 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
               <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
             </svg>
           </a>
-          <a href="#" class="btn btn-outline">
-            <span>Documentation</span>
+          <a href="https://llm-agent-mcp-portfolio.streamlit.app/" class="btn btn-secondary" target="_blank">
+            <span>Live Demo</span>
             <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M14,2H6A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2M18,20H6V4H13V9H18V20Z"/>
+              <path d="M8,5.14V19.14L19,12.14L8,5.14Z"/>
             </svg>
           </a>
         </div>
