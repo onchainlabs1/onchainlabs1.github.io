@@ -101,11 +101,10 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
           AgentMCP is an AI-driven automation platform that uses large language models (LLMs) to interpret natural language instructions and execute real actions on simulated business systems. Modular microservices architecture, interactive Streamlit web interface, and robust FastAPI REST API with authentication, logging, and audit trails. Supports multi-provider LLMs (OpenAI, Anthropic, Groq), dynamic tool discovery via the Model Context Protocol (MCP), and production-ready MLOps integration.
         </p>
         <div class="project-tech">
-          <span class="tech-tag">Python</span>
           <span class="tech-tag">FastAPI</span>
           <span class="tech-tag">Streamlit</span>
           <span class="tech-tag">MCP</span>
-          <span class="tech-tag">LLMs</span>
+          <span class="tech-tag">LLM Agents</span>
           <span class="tech-tag">Audit Logging</span>
         </div>
         <div class="project-actions">
