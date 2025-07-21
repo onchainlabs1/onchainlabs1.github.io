@@ -1,6 +1,6 @@
 ---
 layout: home
-subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strategy & Implementation
+subtitle: AI Architect | GenAI, MLOps, Agentic AI | AWS & Azure Certified
 ---
 
 <div class="hero-banner">
