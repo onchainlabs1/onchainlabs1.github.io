@@ -149,10 +149,11 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AWS & Azure Certified
         <span class="project-emoji">🎯</span>
         <h4>High-Performance ML Classifier</h4>
       </div>
-      <p>High-performance classification system achieving 94% accuracy in production environments</p>
+      <p>1-hour coding challenge with Cursor. High-performance ML classifier built and deployed in a single session.</p>
       <div class="project-badges">
         <span class="badge badge-ai">AI/ML</span>
         <span class="badge badge-python">Python</span>
+        <span class="badge badge-hackathon">1-HOUR CHALLENGE</span>
       </div>
       <a href="https://github.com/onchainlabs1/groq-classifier" class="project-link" target="_blank">View →</a>
     </div>
