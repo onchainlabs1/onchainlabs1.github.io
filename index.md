@@ -175,7 +175,7 @@ subtitle: AI Solutions Architect | Production ML Systems | Enterprise AI Strateg
         <span class="project-emoji">🏆</span>
         <h4>AI Innovation Showcase</h4>
       </div>
-      <p>Hackathon project showcasing rapid innovation in AI/ML</p>
+      <p>Hackathon project organized by Hugging Face, showcasing rapid innovation in AI/ML</p>
       <div class="project-badges">
         <span class="badge badge-hackathon">Hackathon</span>
         <span class="badge badge-innovation">Innovation</span>
