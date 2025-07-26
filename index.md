@@ -231,6 +231,18 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AWS & Azure Certified
       <p class="about-paragraph">
         I'm passionate about helping organizations move from prototype to real-world AI deployment — responsibly, efficiently, and with measurable impact.
       </p>
+
+      <!-- Video Call-to-Action -->
+      <div class="video-cta">
+        <p>
+          <strong>Want to see me in action?</strong>
+          Watch my 2-min video explaining a real-world ML pipeline architecture:
+        </p>
+        <a href="https://www.youtube.com/watch?v=ZW-hsYpi36A" class="video-link" target="_blank">
+          <span class="video-icon">▶️</span>
+          Solution Architecture: ML Pipeline Deep Dive
+        </a>
+      </div>
       
       <div class="certifications">
         <h3 class="certifications-title">☁️ Cloud Certifications</h3>
