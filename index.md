@@ -240,7 +240,7 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AWS & Azure Certified
         </p>
         <a href="https://www.youtube.com/watch?v=ZW-hsYpi36A" class="video-link" target="_blank">
           <span class="video-icon">▶️</span>
-          Solution Architecture: ML Pipeline Deep Dive
+          ML Pipeline Architecture Overview
         </a>
       </div>
       
