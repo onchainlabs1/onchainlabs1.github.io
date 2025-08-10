@@ -310,6 +310,26 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI, AI Compliance | AWS & Azure C
               </div>
             </div>
           </a>
+          
+          <a href="https://mylogin.exin.nl/?Script=GetLinkedInPost&CandidateCertificateGUID=7B737DB8-923D-44DE-B28E-8C10CDF73EC5&ts=978997562" target="_blank" rel="noopener" class="cert-link">
+            <div class="cert-item">
+              <img src="/assets/images/ai_exin_compliance.png" alt="EXIN Artificial Intelligence Compliance Professional (AICP)" class="cert-badge-img">
+              <div class="cert-info">
+                <span class="cert-name">EXIN AI Compliance Professional</span>
+                <span class="cert-date">Verify on EXIN</span>
+              </div>
+            </div>
+          </a>
+          
+          <a href="#" class="cert-link">
+            <div class="cert-item cert-ongoing">
+              <img src="/assets/images/iso42001.png" alt="ISO 42001 AI Management System" class="cert-badge-img">
+              <div class="cert-info">
+                <span class="cert-name">ISO 42001 AI Management</span>
+                <span class="cert-date">Ongoing - Aug 2025</span>
+              </div>
+            </div>
+          </a>
         </div>
       </div>
     </div>
