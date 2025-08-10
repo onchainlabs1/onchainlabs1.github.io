@@ -39,12 +39,7 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure 
         </a>
       </div>
     </div>
-    <div class="hero-visual">
-      <div class="floating-card card-1">🤖 GenAI</div>
-      <div class="floating-card card-2">⚡ MLOps</div>
-      <div class="floating-card card-3">🎯 Agentic AI</div>
-      <div class="floating-card card-4">🔗 RAG</div>
-    </div>
+
   </div>
 </div>
 
