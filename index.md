@@ -1,13 +1,13 @@
 ---
 layout: home
-subtitle: AI Architect | GenAI, MLOps, Agentic AI | AWS & Azure Certified
+subtitle: AI Architect | GenAI, MLOps, Agentic AI, AI Compliance | AWS & Azure Certified
 ---
 
 <div class="hero-banner">
   <div class="hero-content">
     <div class="hero-text">
       <h1 class="hero-title">👋 Hello, I'm <span class="highlight">Fabio Figueiredo</span></h1>
-      <p class="hero-subtitle">AI Architect | GenAI, MLOps, Agentic AI | AWS & Azure Certified</p>
+      <p class="hero-subtitle">AI Architect | GenAI, MLOps, Agentic AI, AI Compliance | AWS & Azure Certified</p>
       <p class="hero-description">I architect and deploy production-ready AI systems that transform business operations. From concept to scale, I deliver measurable AI outcomes for enterprise clients.</p>
       <div class="hero-stats">
         <div class="stat-item">
