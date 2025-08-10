@@ -1,13 +1,13 @@
 ---
 layout: home
-subtitle: AI Architect | GenAI, MLOps, Agentic AI, AI Compliance | AWS & Azure Certified
+subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure Certified
 ---
 
 <div class="hero-banner">
   <div class="hero-content">
     <div class="hero-text">
       <h1 class="hero-title">👋 Hello, I'm <span class="highlight">Fabio Figueiredo</span></h1>
-      <p class="hero-subtitle">AI Architect | GenAI, MLOps, Agentic AI, AI Compliance | AWS & Azure Certified</p>
+      <p class="hero-subtitle">AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure Certified</p>
       <p class="hero-description">I architect and deploy production-ready AI systems that transform business operations. From concept to scale, I deliver measurable AI outcomes for enterprise clients.</p>
       <div class="hero-stats">
         <div class="stat-item">
@@ -325,7 +325,7 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI, AI Compliance | AWS & Azure C
             <div class="cert-item cert-ongoing">
               <img src="/assets/images/iso42001.png" alt="ISO 42001 AI Management System" class="cert-badge-img">
               <div class="cert-info">
-                <span class="cert-name">ISO 42001 AI Management</span>
+                <span class="cert-name">ISO/IEC 42001 Lead Implementer</span>
                 <span class="cert-date">Ongoing - Aug 2025</span>
               </div>
             </div>
