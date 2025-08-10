@@ -220,11 +220,11 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure 
     
     <div class="about-content">
       <p class="about-paragraph">
-        I'm Fabio Figueiredo, an AI Solutions Architect with 15+ years in tech and 8+ years in applied AI. I specialize in GenAI, MLOps, Agentic AI, and LLM-based solutions — transforming complex ideas into scalable, production-grade systems.
+        I'm Fabio Figueiredo, an AI Solutions Architect with 15+ years in tech and 8+ years in applied AI. I specialize in GenAI, MLOps, Agentic AI, and LLM-based solutions — transforming complex ideas into scalable, production-grade systems. My work also incorporates AI governance and compliance best practices to ensure responsible and regulation-aligned deployments.
       </p>
       
       <p class="about-paragraph">
-        I bring a unique mix of technical expertise and strategic thinking, with experience across startups, consulting, and enterprise environments. I hold an MBA from FGV and completed executive education in Marketing Analytics at NYU Stern, combining business insight with practical AI engineering.
+        I combine deep technical expertise with strategic thinking, shaped by experience across startups, consulting, and enterprise environments. I hold an MBA from FGV and completed executive education in Marketing Analytics at NYU Stern, merging business insight with practical AI engineering.
       </p>
       
       <p class="about-paragraph">
