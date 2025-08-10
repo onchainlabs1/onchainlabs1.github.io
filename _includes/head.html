@@ -631,6 +631,17 @@
     padding: 7px 10px;
   }
 }
+
+    /* Hero CTA spacing */
+    .hero-linkedin { 
+      margin-top: 2rem !important; 
+    }      /* ~32px */
+
+    @media (max-width: 640px) {
+      .hero-linkedin { 
+        margin-top: 1.5rem !important; 
+      }  /* ~24px on mobile */
+    }
   </style>
 
   {% if jekyll.environment == 'production' and site.google_analytics %}

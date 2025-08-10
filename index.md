@@ -336,7 +336,7 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure 
     <h2>💼 Ready to Transform Your Business with AI?</h2>
     <p>I'm available for <strong>AI Solutions Architecture</strong> roles, helping enterprises unlock AI's potential for measurable business growth.</p>
     <div class="cta-actions">
-      <a href="https://linkedin.com/in/fabiofigueiredo1" class="btn btn-large btn-linkedin" target="_blank">Connect on LinkedIn</a>
+      <a href="https://linkedin.com/in/fabiofigueiredo1" class="btn btn-large btn-linkedin hero-linkedin" target="_blank">Connect on LinkedIn</a>
       <a href="https://github.com/onchainlabs1" class="btn btn-large btn-github" target="_blank">View All Projects</a>
     </div>
   </div>
