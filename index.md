@@ -22,6 +22,10 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AWS & Azure Certified
           <span class="stat-number">AWS + Azure</span>
           <span class="stat-label">certified</span>
         </div>
+        <div class="stat-item">
+          <span class="stat-number">AI COMPLIANCE</span>
+          <span class="stat-label">AICP + ISO 42001</span>
+        </div>
       </div>
       <div class="hero-cta">
         <a href="https://www.linkedin.com/in/fabiofigueiredo1/" class="linkedin-btn" target="_blank">
