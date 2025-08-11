@@ -24,7 +24,7 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure 
         </div>
         <div class="stat-item">
           <span class="stat-number">AI COMPLIANCE</span>
-          <span class="stat-label">AICP + ISO 42001</span>
+          <span class="stat-label">AICP + ISO 42001<sup><a href="#cert-iso42001" class="iso-footnote" aria-label="See ISO 42001 status below">*</a></sup></span>
         </div>
       </div>
       <div class="hero-cta">
@@ -317,11 +317,11 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure 
           </a>
           
           <a href="#" class="cert-link">
-            <div class="cert-item cert-ongoing">
+            <div id="cert-iso42001" class="cert-item cert-ongoing">
               <img src="/assets/images/iso42001.png" alt="ISO 42001 AI Management System" class="cert-badge-img">
               <div class="cert-info">
                 <span class="cert-name">ISO/IEC 42001 Lead Implementer</span>
-                <span class="cert-date">Ongoing - Aug 2025</span>
+                <span class="cert-date">In progress - Aug 2025</span>
               </div>
             </div>
           </a>

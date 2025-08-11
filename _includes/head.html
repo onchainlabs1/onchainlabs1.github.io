@@ -632,6 +632,18 @@
   }
 }
 
+    /* ISO footnote link (subtle) */
+    .iso-footnote {
+      text-decoration: none !important;
+      opacity: 0.8 !important;
+      margin-left: 2px !important;
+    }
+    .iso-footnote:hover,
+    .iso-footnote:focus {
+      text-decoration: underline !important;
+      opacity: 1 !important;
+    }
+
     /* Hero CTA spacing */
     .hero-linkedin { 
       margin-top: 2rem !important; 
@@ -641,6 +653,15 @@
       .hero-linkedin { 
         margin-top: 1.5rem !important; 
       }  /* ~24px on mobile */
+    }
+
+    /* Optional: progress tag style if not present */
+    .tag--progress {
+      border: 1px solid rgba(255,255,255,.25) !important;
+      padding: .15rem .5rem !important;
+      border-radius: 999px !important;
+      font-size: .8rem !important;
+      opacity: .9 !important;
     }
   </style>
 
