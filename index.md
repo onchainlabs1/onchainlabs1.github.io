@@ -43,7 +43,7 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure 
   </div>
 </div>
 
-<div class="featured-projects-section">
+<div id="featured-projects" class="featured-projects-section">
   <h2 class="section-title">🌟 Featured Projects</h2>
   <p class="section-subtitle">Production-ready AI solutions driving measurable business value across industries</p>
   
@@ -322,6 +322,7 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure 
               <div class="cert-info">
                 <span class="cert-name">ISO/IEC 42001 Lead Implementer</span>
                 <span class="cert-date">In progress - Aug 2025</span>
+                <span class="tag tag--progress">In progress</span>
               </div>
             </div>
           </a>
@@ -340,9 +341,5 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure 
       <a href="https://github.com/onchainlabs1" class="btn btn-large btn-github" target="_blank">View All Projects</a>
     </div>
   </div>
-  <div class="cta-decoration">
-    <div class="decoration-item">⚡</div>
-    <div class="decoration-item">🚀</div>
-    <div class="decoration-item">💡</div>
-  </div>
+
 </div> 
