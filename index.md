@@ -94,9 +94,9 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure 
       </div>
       <div class="project-content">
         <h3>MCP Development Framework (AgentMCP)</h3>
-        <p class="project-tagline">LLM-powered business automation for CRM, ERP, and HR</p>
+        <p class="project-tagline">Enterprise AI Management System with ISO 42001 compliance</p>
         <p class="project-description">
-          AgentMCP is an AI-driven automation platform that uses large language models (LLMs) to interpret natural language instructions and execute real actions on simulated business systems. Modular microservices architecture, interactive Streamlit web interface, and robust FastAPI REST API with authentication, logging, and audit trails. Supports multi-provider LLMs (OpenAI, Anthropic, Groq), dynamic tool discovery via the Model Context Protocol (MCP), and production-ready MLOps integration.
+          AgentMCP is an enterprise-grade AI automation platform built following ISO/IEC 42001:2023 standards for AI management systems. Features natural language processing for business operations, comprehensive audit trails, bias controls, and real-time compliance monitoring. Includes Phoenix Arize integration for quality metrics, structured parameter validation, and traceable logs. Built with FastAPI REST API, Streamlit web interface, and Model Context Protocol (MCP) for enterprise-ready AI governance and automation.
         </p>
         <div class="project-tech">
           <span class="tech-tag">FastAPI</span>
