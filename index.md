@@ -118,6 +118,12 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure 
               <path d="M8,5.14V19.14L19,12.14L8,5.14Z"/>
             </svg>
           </a>
+          <a href="https://www.youtube.com/watch?v=0b6N5w3hb5M" class="btn btn-video" target="_blank">
+            <span>Watch Demo</span>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M8,5.14V19.14L19,12.14L8,5.14Z"/>
+            </svg>
+          </a>
         </div>
       </div>
     </div>
@@ -209,10 +215,7 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure 
         <span class="badge badge-ml">River ML</span>
         <span class="badge badge-mcp">MCP</span>
       </div>
-      <div class="project-actions">
-        <a href="https://github.com/onchainlabs1/dubai" class="project-link" target="_blank">View Project →</a>
-        <a href="https://www.youtube.com/watch?v=0b6N5w3hb5M" class="project-link project-video" target="_blank">Watch Demo →</a>
-      </div>
+      <a href="https://github.com/onchainlabs1/dubai" class="project-link" target="_blank">View →</a>
     </div>
   </div>
 </div>
