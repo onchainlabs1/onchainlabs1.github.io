@@ -675,6 +675,36 @@
       justify-content: center !important;
       border-radius: 999px !important;
     }
+
+    /* Project card actions styling */
+    .project-actions {
+      display: flex !important;
+      gap: 0.75rem !important;
+      margin-top: 1rem !important;
+      flex-wrap: wrap !important;
+    }
+    
+    .project-actions .project-link {
+      flex: 1 !important;
+      min-width: 120px !important;
+      text-align: center !important;
+      padding: 0.5rem 1rem !important;
+      border-radius: 6px !important;
+      font-size: 0.9rem !important;
+      transition: all 0.2s ease !important;
+    }
+    
+    .project-actions .project-video {
+      background: rgba(255, 193, 7, 0.1) !important;
+      border: 1px solid rgba(255, 193, 7, 0.3) !important;
+      color: #ffc107 !important;
+    }
+    
+    .project-actions .project-video:hover {
+      background: rgba(255, 193, 7, 0.2) !important;
+      border-color: rgba(255, 193, 7, 0.5) !important;
+      transform: translateY(-1px) !important;
+    }
   </style>
 
   {% if jekyll.environment == 'production' and site.google_analytics %}
