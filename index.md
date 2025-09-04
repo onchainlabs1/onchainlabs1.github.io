@@ -207,11 +207,11 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure 
         <span class="project-emoji">📊</span>
         <h4>ISO 42001 Compliance Dashboard</h4>
       </div>
-      <p>Real-time compliance monitoring and audit dashboard for AI management systems. Features live compliance metrics, audit trail visualization, bias detection alerts, and regulatory reporting. Built with Streamlit for interactive data exploration and Phoenix Arize integration for quality monitoring. Provides enterprise stakeholders with transparent AI governance insights and automated compliance reporting.</p>
+      <p>Real-time compliance monitoring and audit dashboard for AI management systems. Features live compliance metrics, audit trail visualization, bias detection alerts, and regulatory reporting. Built with Phoenix Arize integration for quality monitoring and automated compliance reporting.</p>
       <div class="project-badges">
         <span class="badge badge-ai">ISO 42001</span>
-        <span class="badge badge-streamlit">Streamlit</span>
-        <span class="badge badge-llm">Compliance</span>
+        <span class="badge badge-streamlit">Real-time</span>
+        <span class="badge badge-llm">Governance</span>
         <span class="badge badge-ml">Audit Trail</span>
         <span class="badge badge-mcp">Phoenix Arize</span>
       </div>
