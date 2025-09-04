@@ -204,18 +204,18 @@ subtitle: AI Architect | GenAI, MLOps, Agentic AI | AI Compliance | AWS & Azure 
 
     <div class="project-card">
       <div class="project-header">
-        <span class="project-emoji">🏠</span>
-        <h4>RE-Advisor: Agentic AI for Real Estate</h4>
+        <span class="project-emoji">📊</span>
+        <h4>ISO 42001 Compliance Dashboard</h4>
       </div>
-      <p>LLM agent for real estate. Recommends rent changes and acquisitions in real time using market data, Groq LLM, River ML, and MCP.</p>
+      <p>Real-time compliance monitoring and audit dashboard for AI management systems. Features live compliance metrics, audit trail visualization, bias detection alerts, and regulatory reporting. Built with Streamlit for interactive data exploration and Phoenix Arize integration for quality monitoring. Provides enterprise stakeholders with transparent AI governance insights and automated compliance reporting.</p>
       <div class="project-badges">
-        <span class="badge badge-ai">Agentic AI</span>
+        <span class="badge badge-ai">ISO 42001</span>
         <span class="badge badge-streamlit">Streamlit</span>
-        <span class="badge badge-llm">Groq LLM</span>
-        <span class="badge badge-ml">River ML</span>
-        <span class="badge badge-mcp">MCP</span>
+        <span class="badge badge-llm">Compliance</span>
+        <span class="badge badge-ml">Audit Trail</span>
+        <span class="badge badge-mcp">Phoenix Arize</span>
       </div>
-      <a href="https://github.com/onchainlabs1/dubai" class="project-link" target="_blank">View →</a>
+      <a href="https://llm-agent-mcp-iso.streamlit.app/" class="project-link" target="_blank">View →</a>
     </div>
   </div>
 </div>
